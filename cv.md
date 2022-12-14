@@ -9,6 +9,7 @@
 
 ### About myself:
 I want to learn JS/FRONT-END
+
 ****
 ### Skills:
 In progress...
