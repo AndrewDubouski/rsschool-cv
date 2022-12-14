@@ -21,6 +21,6 @@ In progress...
 ********
 ### Education
 In progress...
-********
+*******
 ### English 
 А2
