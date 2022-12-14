@@ -10,19 +10,24 @@
 ### About myself:
 I want to learn JS/FRONT-END
 
-****
+----
 ### Skills:
 In progress...
-****
+
+----
 ### Code example:
 In progress...
-****
+
+----
 ### Work experience
 In progress...
-****
+
+----
 ### Education
 In progress...
-***
+
+----
 ### English 
 А2
-****
+
+----
